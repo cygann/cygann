@@ -1,11 +1,16 @@
-### Hi there 👋
-
+### Hi there, I'm Natalie 👋
+- 🌲 I study Computer Science at Stanford University as an undergrad, with a focus in Artificial Intelligence.
+- 💫 I currently work as a Software Engineering Intern at [Red Leader](https://www.redleadertech.com/).
+<!--
+**cygann/cygann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about the brain, 
 <!--
 **cygann/cygann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+hello
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
