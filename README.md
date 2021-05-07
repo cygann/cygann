@@ -1,6 +1,8 @@
 ### Hi there, I'm Natalie 👋
 - 🌲 I study Computer Science at Stanford University as an undergrad, with a focus in Artificial Intelligence.
 - ⌨️ I previously interned as a Software Engineering Intern at [Red Leader](https://www.redleadertech.com/) (Summer & Fall 2020) and Google (Summer 2019).
+
+[Under Construction 🚧]
 <!--
 **cygann/cygann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning about the brain, 
