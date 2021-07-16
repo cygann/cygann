@@ -1,6 +1,6 @@
 ### Hi there, I'm Natalie 👋
 - 🌲 I am undergrad in Computer Science and a master's student in Electrical Engineering at Stanford University.
-- 🧠 My current interests include Artificial Intelligence, Brain-Computer Interfaces, Neuroscience, and Hardware-Software Systems.
+- 🧠 My current interests include Artificial Intelligence, Brain-Computer Interfaces, Neuroscience, Hardware-Software Systems, and Human-Computer Interaction.
 - ⌨️ I previously interned as a Software Engineering Intern at [Red Leader](https://www.redleadertech.com/) (Summer & Fall 2020) and Google (Summer 2019).
 
 [Under Construction 🚧]
