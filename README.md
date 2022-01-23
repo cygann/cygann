@@ -1,5 +1,5 @@
 ### Hi there, I'm [Natalie](https://www.nataliecygan.com) 👋
-- 🌲 I am undergrad in Computer Science and a master's student in Electrical Engineering at Stanford University.
+- 🌲 I am an Electrical Engineering master's student at Stanford University. I did my undergrad here in Computer Science.
 - 🧠 My interests include Artificial Intelligence, Brain-Computer Interfaces, Neuroscience, Hardware-Software Systems, and Human-Computer Interaction.
 - ⌨️ I previously interned as a Software Engineering Intern at [Red Leader](https://www.redleadertech.com/) (Summer & Fall 2020) and [Google](https://github.com/topics/google) (Summer 2019).
 
